@@ -20,7 +20,7 @@
 	},
 	{
 		"id": 2,
-		"nome_fantasia": "iyekJWMnC4",
+		"nome_fantasia": "Posto IPI",
 		"nome_razao": "HFEBFmOPQx",
 		"endereco_rua": "TUZ27EhilI",
 		"endereco_numero": "MTqvYWsDQZ",
@@ -31,7 +31,7 @@
 		"preco_etanol": "5.100",
 		"preco_diesel": "10.500",
 		"preco_diesel_s10": "10.600",
-		"img_url": null,
+		"img_url": "https://raw.githubusercontent.com/eliezerfb/alocaqui/master/Ipiranga.png",
 		"ativo": 1,
 		"created_at": null,
 		"updated_at": null,
